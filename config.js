@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you (please po 🥺) be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "(please po 🥺) Be my Valentine on February 14th, 2025? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "Yes (joke, No)"                                                 // Text for "No" button
         }
@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "WAWW You really love me that much ha?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "To the moon and back!! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        normal: "you love me?! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
