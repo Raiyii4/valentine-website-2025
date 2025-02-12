@@ -8,7 +8,7 @@ const CONFIG = {
     valentineName: "Claire",
 
     // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
+    // You can use emojis! 💙💙💙💙💙
     pageTitle: "Will You Be My Valentine? 💝",
 
     // Floating emojis that appear in the background
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Celebrate Valentines day with me??",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "You're always supposed to say yes! ❤️"           // Secret hover message
+            secretAnswer: "You're always supposed to say yes! 💙"           // Secret hover message
         },
         second: {
             text: "How much do you really really love me?",                          // For the love meter
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you (please po 🥺) be my Valentine on February 14th, 2025? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "Yes (joke, No)"                                                 // Text for "No" button
         }
     },
 
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest/happiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss on the  lips!!",
+        message: "Now come here and let me cuddle you already TwT",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
