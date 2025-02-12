@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Claire",
+    valentineName: "Clairee",
 
     // The title that appears in the browser tab
     // You can use emojis! 💙💙💙💙💙
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "(please po 🥺) Be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "(please po 🥺)Be my Valentine on February 14th, 2025? ", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "Yes (joke, No)"                                                 // Text for "No" button
         }
@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WAWW You really love me that much ha?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "WAWwWW You really love me that much ha?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "To the moon and back!! 🚀💝",              // Shows when they go past 1000%
         normal: "you love me?! 🥰"                           // Shows when they go past 100%
     },
